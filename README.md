@@ -19,7 +19,7 @@ PS/ACG GitHub - [BrentenDovey-ACG](https://github.com/BrentenDovey-ACG)
 
 ## Videos E-Learning Content
 
-- [All Pluralsight and A Cloud Guru Courses and Content](https://www.pluralsight.com/search?q=chase%20dovey&categories=all) - Does not include labs as all lab content is available to only licensed users for the ACG product under the PS platform
+- [All Pluralsight and A Cloud Guru Courses and Content](https://www.pluralsight.com/search?q=chase%20dovey&categories=all) - Any content that doesnt show me as the author simply means i wasnt the primary author, but i was rather the secondary author. Simply this means I was brought in to divide labor to assist in creating content to meet deadlines. Additionally, this does not include labs as all lab content is available to only licensed users for the ACG product under the PS platform
 
 
 ## Live Presentations
